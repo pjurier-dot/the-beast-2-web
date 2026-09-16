@@ -1708,6 +1708,182 @@
         "autoplay": true,
         "tracks": []
       }
+    },
+    {
+      "id": "page-1789581519440",
+      "name": "Trailers",
+      "slug": "exo3",
+      "background": {
+        "type": "image",
+        "color": "#030303",
+        "imageUrl": "",
+        "blur": 0,
+        "overlayOpacity": 0,
+        "gradient": {
+          "type": "radial",
+          "angle": 180,
+          "colors": [
+            {
+              "color": "#171717",
+              "position": 1
+            },
+            {
+              "color": "#080808",
+              "position": 52
+            },
+            {
+              "color": "#000000",
+              "position": 100
+            }
+          ]
+        }
+      },
+      "elements": [
+        {
+          "id": "page-1789581519440-back",
+          "type": "button",
+          "text": "VOLVER",
+          "x": 50,
+          "y": 68,
+          "fontSize": 12,
+          "color": "#050505",
+          "fontWeight": "800",
+          "fontFamily": "IBM Plex Mono, monospace",
+          "bgColor": "#ffffff",
+          "buttonStyle": "solid",
+          "buttonIcon": "arrow",
+          "buttonIconPosition": "left",
+          "hoverEffect": "lift",
+          "borderRadius": 0,
+          "borderWidth": 0,
+          "borderColor": "#ffffff",
+          "borderStyle": "solid",
+          "shadowEnabled": false,
+          "shadowOffsetX": 0,
+          "shadowOffsetY": 0,
+          "shadowBlur": 0,
+          "shadowColor": "transparent",
+          "letterSpacing": 1.2,
+          "width": 180,
+          "height": 50,
+          "zIndex": 2,
+          "opacity": 100,
+          "locked": false,
+          "visible": true,
+          "actionType": "internal",
+          "actionTarget": "main",
+          "entryAnimation": {
+            "type": "fadeSlide",
+            "duration": 420,
+            "delay": 240,
+            "easing": "ease-out",
+            "direction": "up",
+            "distance": 18
+          },
+          "exitAnimation": {
+            "type": "fadeOut",
+            "duration": 220,
+            "delay": 0,
+            "easing": "ease-in"
+          },
+          "name": "VOLVER"
+        },
+        {
+          "id": "page-1789581519440-title",
+          "type": "title",
+          "text": "PÁGINA 3",
+          "x": 50,
+          "y": 35,
+          "fontSize": 42,
+          "color": "#ffffff",
+          "fontWeight": "800",
+          "fontFamily": "IBM Plex Mono, monospace",
+          "textAlign": "center",
+          "letterSpacing": 2,
+          "lineHeight": 1,
+          "zIndex": 1,
+          "opacity": 100,
+          "locked": false,
+          "visible": true,
+          "outlinePreset": "none",
+          "outlineWidth": 0,
+          "outlineColor": "#000000",
+          "outlineOffset": 0,
+          "gradient": {
+            "enabled": false,
+            "type": "linear",
+            "angle": 90,
+            "colors": [
+              {
+                "color": "#ffffff",
+                "position": 0
+              },
+              {
+                "color": "#ffffff",
+                "position": 100
+              }
+            ]
+          },
+          "textShadow": {
+            "enabled": false,
+            "layers": []
+          },
+          "textStroke": {
+            "enabled": false,
+            "width": 1,
+            "color": "#000000"
+          },
+          "textGlow": {
+            "enabled": false,
+            "color": "#ffffff",
+            "blur": 0,
+            "strength": 0
+          },
+          "entryAnimation": {
+            "type": "fadeIn",
+            "duration": 420,
+            "delay": 100,
+            "easing": "ease-out"
+          },
+          "exitAnimation": {
+            "type": "fadeOut",
+            "duration": 220,
+            "delay": 0,
+            "easing": "ease-in"
+          },
+          "name": "PÁGINA 3"
+        }
+      ],
+      "layerTree": {
+        "version": 3,
+        "rootIds": [
+          "page-1789581519440-back",
+          "page-1789581519440-title"
+        ],
+        "nodes": {
+          "page-1789581519440-back": {
+            "id": "page-1789581519440-back",
+            "kind": "element",
+            "elementId": "page-1789581519440-back",
+            "parentId": null
+          },
+          "page-1789581519440-title": {
+            "id": "page-1789581519440-title",
+            "kind": "element",
+            "elementId": "page-1789581519440-title",
+            "parentId": null
+          }
+        }
+      },
+      "timeline": {
+        "version": 1,
+        "enabled": false,
+        "duration": 4000,
+        "fps": 60,
+        "loop": false,
+        "autoplay": true,
+        "tracks": []
+      }
     }
   ],
   "pageTransition": {
