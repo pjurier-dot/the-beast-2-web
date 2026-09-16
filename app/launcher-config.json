@@ -234,7 +234,7 @@
       "locked": false,
       "buttonStyle": "pill",
       "hoverEffect": "glow",
-      "actionType": "none",
+      "actionType": "internal",
       "buttonIcon": "spark",
       "entryAnimation": {
         "type": "fadeSlide",
@@ -249,7 +249,8 @@
         "direction": "up",
         "flashBrightness": 180,
         "customBezier": "cubic-bezier(.22,.8,.22,1)"
-      }
+      },
+      "actionTarget": "page-1789581519440"
     },
     {
       "id": "button-7dff4edd-ea67-4d45-98b9-452491ab1943",
@@ -899,10 +900,18 @@
             "strength": 0
           },
           "entryAnimation": {
-            "type": "fadeIn",
+            "type": "none",
             "duration": 420,
             "delay": 100,
-            "easing": "ease-out"
+            "easing": "ease-out",
+            "fromOpacity": 0,
+            "toOpacity": 100,
+            "distance": 46,
+            "blurAmount": 18,
+            "scaleFrom": 92,
+            "direction": "up",
+            "flashBrightness": 180,
+            "customBezier": "cubic-bezier(.22,.8,.22,1)"
           },
           "exitAnimation": {
             "type": "fadeOut",
@@ -964,10 +973,18 @@
             "strength": 0
           },
           "entryAnimation": {
-            "type": "fadeIn",
+            "type": "none",
             "duration": 420,
             "delay": 100,
-            "easing": "ease-out"
+            "easing": "ease-out",
+            "fromOpacity": 0,
+            "toOpacity": 100,
+            "distance": 46,
+            "blurAmount": 18,
+            "scaleFrom": 92,
+            "direction": "up",
+            "flashBrightness": 180,
+            "customBezier": "cubic-bezier(.22,.8,.22,1)"
           },
           "exitAnimation": {
             "type": "fadeOut",
@@ -1029,10 +1046,18 @@
             "strength": 0
           },
           "entryAnimation": {
-            "type": "fadeIn",
+            "type": "none",
             "duration": 420,
             "delay": 100,
-            "easing": "ease-out"
+            "easing": "ease-out",
+            "fromOpacity": 0,
+            "toOpacity": 100,
+            "distance": 46,
+            "blurAmount": 18,
+            "scaleFrom": 92,
+            "direction": "up",
+            "flashBrightness": 180,
+            "customBezier": "cubic-bezier(.22,.8,.22,1)"
           },
           "exitAnimation": {
             "type": "fadeOut",
@@ -1773,14 +1798,14 @@
           "id": "button-5a148ba4-d4d6-42ea-93f8-9b472c88b7e4",
           "name": "Event status copia copia",
           "type": "button",
-          "text": "Ver Trailer 2.9",
-          "x": 11.13284485319535,
-          "y": 66.44168446030599,
-          "width": 125,
+          "text": "Volver",
+          "x": 50,
+          "y": 90.3568634743589,
+          "width": 182,
           "height": 42,
           "fontSize": 12,
-          "color": "#f29797",
-          "bgColor": "#3d2810",
+          "color": "#58ee62",
+          "bgColor": "#121c14",
           "borderColor": "#b8ff5a",
           "borderWidth": 1,
           "borderRadius": 999,
@@ -1795,9 +1820,11 @@
           "locked": false,
           "buttonStyle": "pill",
           "hoverEffect": "glow",
-          "actionType": "external",
+          "actionType": "internal",
           "openInNewTab": true,
-          "externalUrl": "https://vimeo.com/1227433188?share=copy&fl=sv&fe=ci"
+          "externalUrl": "https://vimeo.com/1227433188?share=copy&fl=sv&fe=ci",
+          "buttonIcon": "arrow",
+          "actionTarget": "main"
         },
         {
           "id": "button-4a48e18f-7c34-4d3d-a28c-5f4368c268bc",
