@@ -1740,74 +1740,144 @@
       },
       "elements": [
         {
-          "id": "page-1789581519440-back",
+          "id": "button-61e43558-5fa2-45ed-8355-6b4abc9cfaae",
+          "name": "Event status copia copia",
           "type": "button",
-          "text": "VOLVER",
-          "x": 50,
-          "y": 68,
+          "text": "Ver Trailer 2",
+          "x": 11.214345685485137,
+          "y": 41.330742048128926,
+          "width": 125,
+          "height": 42,
           "fontSize": 12,
-          "color": "#050505",
-          "fontWeight": "800",
-          "fontFamily": "IBM Plex Mono, monospace",
-          "bgColor": "#ffffff",
-          "buttonStyle": "solid",
-          "buttonIcon": "arrow",
-          "buttonIconPosition": "left",
-          "hoverEffect": "lift",
-          "borderRadius": 0,
-          "borderWidth": 0,
-          "borderColor": "#ffffff",
-          "borderStyle": "solid",
-          "shadowEnabled": false,
-          "shadowOffsetX": 0,
-          "shadowOffsetY": 0,
-          "shadowBlur": 0,
-          "shadowColor": "transparent",
-          "letterSpacing": 1.2,
-          "width": 180,
-          "height": 50,
-          "zIndex": 2,
-          "opacity": 100,
-          "locked": false,
-          "visible": true,
-          "actionType": "internal",
-          "actionTarget": "main",
-          "entryAnimation": {
-            "type": "fadeSlide",
-            "duration": 420,
-            "delay": 240,
-            "easing": "ease-out",
-            "direction": "up",
-            "distance": 18
-          },
-          "exitAnimation": {
-            "type": "fadeOut",
-            "duration": 220,
-            "delay": 0,
-            "easing": "ease-in"
-          },
-          "name": "VOLVER"
-        },
-        {
-          "id": "page-1789581519440-title",
-          "type": "title",
-          "text": "PÁGINA 3",
-          "x": 50,
-          "y": 35,
-          "fontSize": 42,
-          "color": "#ffffff",
-          "fontWeight": "800",
+          "color": "#ffc35c",
+          "bgColor": "#4e1304",
+          "borderColor": "#b8ff5a",
+          "borderWidth": 1,
+          "borderRadius": 999,
+          "padding": "10px 18px",
+          "fontWeight": "700",
           "fontFamily": "IBM Plex Mono, monospace",
           "textAlign": "center",
-          "letterSpacing": 2,
-          "lineHeight": 1,
+          "letterSpacing": 1.6,
+          "opacity": 100,
+          "zIndex": 5,
+          "visible": true,
+          "locked": false,
+          "buttonStyle": "pill",
+          "hoverEffect": "glow",
+          "actionType": "external",
+          "openInNewTab": true,
+          "externalUrl": "https://vimeo.com/1157365537?share=copy&fl=sv&fe=ci"
+        },
+        {
+          "id": "button-5a148ba4-d4d6-42ea-93f8-9b472c88b7e4",
+          "name": "Event status copia copia",
+          "type": "button",
+          "text": "Ver Trailer 2.9",
+          "x": 11.13284485319535,
+          "y": 66.44168446030599,
+          "width": 125,
+          "height": 42,
+          "fontSize": 12,
+          "color": "#f29797",
+          "bgColor": "#3d2810",
+          "borderColor": "#b8ff5a",
+          "borderWidth": 1,
+          "borderRadius": 999,
+          "padding": "10px 18px",
+          "fontWeight": "700",
+          "fontFamily": "IBM Plex Mono, monospace",
+          "textAlign": "center",
+          "letterSpacing": 1.6,
+          "opacity": 100,
+          "zIndex": 4,
+          "visible": true,
+          "locked": false,
+          "buttonStyle": "pill",
+          "hoverEffect": "glow",
+          "actionType": "external",
+          "openInNewTab": true,
+          "externalUrl": "https://vimeo.com/1227433188?share=copy&fl=sv&fe=ci"
+        },
+        {
+          "id": "button-4a48e18f-7c34-4d3d-a28c-5f4368c268bc",
+          "name": "Event status copia",
+          "type": "button",
+          "text": "Ver Trailer 2.5",
+          "x": 11.251758180604615,
+          "y": 53.58728426447713,
+          "width": 125,
+          "height": 42,
+          "fontSize": 12,
+          "color": "#ec5cff",
+          "bgColor": "#311f33",
+          "borderColor": "#b8ff5a",
+          "borderWidth": 1,
+          "borderRadius": 999,
+          "padding": "10px 18px",
+          "fontWeight": "700",
+          "fontFamily": "IBM Plex Mono, monospace",
+          "textAlign": "center",
+          "letterSpacing": 1.6,
+          "opacity": 100,
+          "zIndex": 3,
+          "visible": true,
+          "locked": false,
+          "buttonStyle": "pill",
+          "hoverEffect": "glow",
+          "actionType": "external",
+          "externalUrl": "https://vimeo.com/1227462511?share=copy&fl=sv&fe=ci",
+          "openInNewTab": true
+        },
+        {
+          "id": "element-4c8be7f0-1645-41f7-958a-68c530a4dda6",
+          "name": "Event status",
+          "type": "button",
+          "text": "Ver Trailer 1",
+          "x": 11.207671460033222,
+          "y": 28.625804864696388,
+          "width": 125,
+          "height": 42,
+          "fontSize": 12,
+          "color": "#5cff5f",
+          "bgColor": "#29331f",
+          "borderColor": "#b8ff5a",
+          "borderWidth": 1,
+          "borderRadius": 999,
+          "padding": "10px 18px",
+          "fontWeight": "700",
+          "fontFamily": "IBM Plex Mono, monospace",
+          "textAlign": "center",
+          "letterSpacing": 1.6,
+          "opacity": 100,
+          "zIndex": 2,
+          "visible": true,
+          "locked": false,
+          "buttonStyle": "pill",
+          "hoverEffect": "glow",
+          "actionType": "external",
+          "openInNewTab": true,
+          "externalUrl": "https://vimeo.com/1161208132?share=copy&fl=sv&fe=ci"
+        },
+        {
+          "id": "text-1789583745004",
+          "type": "subtitle",
+          "text": "Trailers/Memories",
+          "x": 18.216367986013967,
+          "y": 8.596847999703979,
+          "fontSize": 44,
+          "color": "#ffffff",
+          "fontWeight": "bold",
+          "fontFamily": "Roboto, sans-serif",
+          "textAlign": "center",
+          "letterSpacing": 1,
           "zIndex": 1,
           "opacity": 100,
           "locked": false,
           "visible": true,
-          "outlinePreset": "none",
-          "outlineWidth": 0,
-          "outlineColor": "#000000",
+          "outlinePreset": "neon",
+          "outlineWidth": 1,
+          "outlineColor": "#f5f0f0",
           "outlineOffset": 0,
           "gradient": {
             "enabled": false,
@@ -1841,37 +1911,131 @@
           },
           "entryAnimation": {
             "type": "fadeIn",
-            "duration": 420,
-            "delay": 100,
+            "duration": 500,
+            "delay": 0,
             "easing": "ease-out"
           },
           "exitAnimation": {
             "type": "fadeOut",
-            "duration": 220,
+            "duration": 250,
             "delay": 0,
             "easing": "ease-in"
           },
-          "name": "PÁGINA 3"
+          "name": "NUEVO TEXTO",
+          "fontStyle": "italic"
         }
       ],
       "layerTree": {
         "version": 3,
         "rootIds": [
-          "page-1789581519440-back",
-          "page-1789581519440-title"
+          "group-f795688e-97da-4902-96d5-70bbdfe0e252",
+          "group-c5a3f1c0-9344-4a0c-9179-781433b3611a",
+          "group-0de9e4ea-2f0b-4379-a84b-7a0039059700",
+          "instance-3f549a25-2970-4a5f-951c-6fb9b9fd8f33",
+          "text-1789583745004"
         ],
         "nodes": {
-          "page-1789581519440-back": {
-            "id": "page-1789581519440-back",
+          "text-1789583745004": {
+            "id": "text-1789583745004",
             "kind": "element",
-            "elementId": "page-1789581519440-back",
+            "elementId": "text-1789583745004",
             "parentId": null
           },
-          "page-1789581519440-title": {
-            "id": "page-1789581519440-title",
+          "element-4c8be7f0-1645-41f7-958a-68c530a4dda6": {
+            "id": "element-4c8be7f0-1645-41f7-958a-68c530a4dda6",
             "kind": "element",
-            "elementId": "page-1789581519440-title",
-            "parentId": null
+            "elementId": "element-4c8be7f0-1645-41f7-958a-68c530a4dda6",
+            "parentId": "instance-3f549a25-2970-4a5f-951c-6fb9b9fd8f33",
+            "componentKey": "status-button"
+          },
+          "instance-3f549a25-2970-4a5f-951c-6fb9b9fd8f33": {
+            "id": "instance-3f549a25-2970-4a5f-951c-6fb9b9fd8f33",
+            "kind": "group",
+            "containerType": "group",
+            "name": "Event Status",
+            "parentId": null,
+            "children": [
+              "element-4c8be7f0-1645-41f7-958a-68c530a4dda6"
+            ],
+            "visible": true,
+            "locked": false,
+            "expanded": true,
+            "componentInstance": {
+              "definitionId": "component-8441514e-5b47-4f80-a418-33559ca9a0b9",
+              "definitionVersion": 1
+            }
+          },
+          "group-0de9e4ea-2f0b-4379-a84b-7a0039059700": {
+            "id": "group-0de9e4ea-2f0b-4379-a84b-7a0039059700",
+            "kind": "group",
+            "containerType": "group",
+            "name": "Event Status copia",
+            "parentId": null,
+            "children": [
+              "button-4a48e18f-7c34-4d3d-a28c-5f4368c268bc"
+            ],
+            "visible": true,
+            "locked": false,
+            "expanded": true,
+            "componentInstance": {
+              "definitionId": "component-8441514e-5b47-4f80-a418-33559ca9a0b9",
+              "definitionVersion": 1
+            }
+          },
+          "button-4a48e18f-7c34-4d3d-a28c-5f4368c268bc": {
+            "id": "button-4a48e18f-7c34-4d3d-a28c-5f4368c268bc",
+            "kind": "element",
+            "elementId": "button-4a48e18f-7c34-4d3d-a28c-5f4368c268bc",
+            "parentId": "group-0de9e4ea-2f0b-4379-a84b-7a0039059700",
+            "componentKey": "status-button"
+          },
+          "group-f795688e-97da-4902-96d5-70bbdfe0e252": {
+            "id": "group-f795688e-97da-4902-96d5-70bbdfe0e252",
+            "kind": "group",
+            "containerType": "group",
+            "name": "Event Status copia copia",
+            "parentId": null,
+            "children": [
+              "button-61e43558-5fa2-45ed-8355-6b4abc9cfaae"
+            ],
+            "visible": true,
+            "locked": false,
+            "expanded": true,
+            "componentInstance": {
+              "definitionId": "component-8441514e-5b47-4f80-a418-33559ca9a0b9",
+              "definitionVersion": 1
+            }
+          },
+          "button-61e43558-5fa2-45ed-8355-6b4abc9cfaae": {
+            "id": "button-61e43558-5fa2-45ed-8355-6b4abc9cfaae",
+            "kind": "element",
+            "elementId": "button-61e43558-5fa2-45ed-8355-6b4abc9cfaae",
+            "parentId": "group-f795688e-97da-4902-96d5-70bbdfe0e252",
+            "componentKey": "status-button"
+          },
+          "group-c5a3f1c0-9344-4a0c-9179-781433b3611a": {
+            "id": "group-c5a3f1c0-9344-4a0c-9179-781433b3611a",
+            "kind": "group",
+            "containerType": "group",
+            "name": "Event Status copia copia",
+            "parentId": null,
+            "children": [
+              "button-5a148ba4-d4d6-42ea-93f8-9b472c88b7e4"
+            ],
+            "visible": true,
+            "locked": false,
+            "expanded": true,
+            "componentInstance": {
+              "definitionId": "component-8441514e-5b47-4f80-a418-33559ca9a0b9",
+              "definitionVersion": 1
+            }
+          },
+          "button-5a148ba4-d4d6-42ea-93f8-9b472c88b7e4": {
+            "id": "button-5a148ba4-d4d6-42ea-93f8-9b472c88b7e4",
+            "kind": "element",
+            "elementId": "button-5a148ba4-d4d6-42ea-93f8-9b472c88b7e4",
+            "parentId": "group-c5a3f1c0-9344-4a0c-9179-781433b3611a",
+            "componentKey": "status-button"
           }
         }
       },
