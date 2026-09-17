@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: "The Beast 2",
+  title: "wbns x mc 7",
   description: 'Launcher de Minecraft creado con Launcher Creator',
 }
 

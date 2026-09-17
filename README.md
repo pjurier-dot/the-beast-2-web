@@ -1,4 +1,4 @@
-# The Beast 2 - Launcher de Minecraft
+# wbns x mc 7 - Launcher de Minecraft
 
 > Launcher creado con Launcher Creator
 > 
